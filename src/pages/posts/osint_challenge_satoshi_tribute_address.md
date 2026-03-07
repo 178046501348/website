@@ -27,7 +27,7 @@ Get the transaction hash from the challenge description _d8773c23582a0bf0fe7f640
 
 Everything is available on the page, just make sure to select the actual amount, after the fee.
 
-![](/website/src/pages/posts/screenshots/osint_challenge_satoshi_tribute_address.png)
+![](/src/pages/posts/screenshots/osint_challenge_satoshi_tribute_address.png)
 
 ## Flag
 Transaction amount: *2168BTC
