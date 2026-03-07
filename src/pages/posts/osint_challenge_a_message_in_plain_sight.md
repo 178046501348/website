@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/MarkdownPostLayout.astro
-title: "OSINT CTF: Satoshi Tribute Address: Daily Received Total"
-pubDate: 2026-03-01
+title: "OSINT CTF: A message in plain sight"
+pubDate: 2026-03-07
 description: 'A photograph was recovered during an investigation.
 
 At first glance, the image appears completely unrelated to any specific location. However, digital files often contain hidden information embedded within their metadata.
