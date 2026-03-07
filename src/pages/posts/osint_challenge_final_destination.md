@@ -23,7 +23,7 @@ Ok, so, once you download the zip file, you need to use a dedicated tool like Wi
 
 By default it is sorted from the earliest to the latest...so just entered the last domain queried by the user:
 
-![](/src/pages/posts/screenshots/osint_challenge_final_destination.png)
+![](/website/src/pages/posts/screenshots/osint_challenge_final_destination.png)
 
 ## Flag
 Flag: *.com
