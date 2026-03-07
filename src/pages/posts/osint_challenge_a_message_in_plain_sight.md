@@ -25,9 +25,7 @@ Ok, we got something...let's see what CyberChef has to say about this base64 enc
 
 ![](../posts/screenshots/osint_challenge_a_message_in_plain_sight_2.png)
 
-_Meet me in the Valley of the Moon, where the red sands whisper beneath a Bedouin sky._ hmm...let's google this and we got our flag:
-
-https://www.peek.com/wadi-rum-village-aqaba-governorate-jordan/r06d7q/wadi-rum-a-spiritual-odyssey-through-the-desert-sands/ar0rdbwe
+_Meet me in the Valley of the Moon, where the red sands whisper beneath a Bedouin sky._ hmm...let's google this and ... we got our flag: https://www.peek.com/wadi-rum-village-aqaba-governorate-jordan/r06d7q/wadi-rum-a-spiritual-odyssey-through-the-desert-sands/ar0rdbwe
 
 ## Flag
 See link above
