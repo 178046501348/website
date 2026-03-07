@@ -78,21 +78,3 @@ code {
   color: var(--neon-green);
   font-family: monospace;
 }
-
-.cyber-button {
-  display: inline-block;
-  padding: 10px 20px;
-  background-color: transparent;
-  color: var(--neon-cyan);
-  border: 1px solid var(--neon-cyan);
-  text-transform: uppercase;
-  font-weight: bold;
-  /* Cuts off the top-right and bottom-left corners */
-  clip-path: polygon(10px 0, 100% 0, 100% calc(100% - 10px), calc(100% - 10px) 100%, 0 100%, 0 10px);
-  transition: 0.2s;
-}
-
-.cyber-button:hover {
-  background-color: var(--neon-cyan);
-  color: var(--bg-color);
-}
