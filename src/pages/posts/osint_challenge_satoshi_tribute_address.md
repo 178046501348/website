@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/MarkdownPostLayout.astro
-title: "Satoshi Tribute Address: Daily Received Total"
-pubDate: 2022-07-01
+title: "OSINT CTF: Satoshi Tribute Address: Daily Received Total"
+pubDate: 2026-03-01
 description: 'The Bitcoin address below is widely known as a tribute address associated with Satoshi Nakamoto and continues to receive small transactions from the public.
 On January 6th, 2026, a transaction was broadcast to this address and included in the Bitcoin blockchain.
 
