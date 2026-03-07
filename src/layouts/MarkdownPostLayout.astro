@@ -21,3 +21,16 @@ const { frontmatter } = Astro.props;
 
   <slot />
 </BaseLayout>
+
+<style>
+  .tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px; /* Space between tags */
+  }
+
+  /* Optional: Remove the default paragraph margins so they align perfectly */
+  .tag {
+    margin: 0; 
+  }
+</style>
