@@ -15,7 +15,7 @@ Decode the and find the location.
 ## Solution
 When we open the file, we immediately hear some regular beeps, so my first thought was that I am dealing with some Morse code.
 
-I then uploaded the file to an audio decoder (you can also do it by pen and paper, but...I think we past that point with modern technology), like: https://themorsecodetranslator.net/morse-code-audio-decoder/ and it detected the following sequence
+I then uploaded the file to an audio decoder (you can also do it by pen and paper, but...I think we are past that point with modern technology), like: https://themorsecodetranslator.net/morse-code-audio-decoder/ and it detected the following sequence
 
 ` --. --- .-.. -.. . -. / -... .-. .. -.. --. . / ...- .. . - -. .- -- `
 
