@@ -25,10 +25,6 @@ body {
   background-size: 30px 30px;
 }
 
-li {
-  color: var(--neon-cyan)
-}
-
 h1, h2, h3, h4 {
   color: var(--neon-cyan);
   text-transform: uppercase;
