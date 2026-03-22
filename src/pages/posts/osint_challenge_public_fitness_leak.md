@@ -17,7 +17,7 @@ Your task is to review the recovered evidence and determine what the subject’s
 ## Solution
 Download the archive. 
 
-We have multiple ways of approaching this, including the review of the .gpx (a standardised xml based format for storing GPS data), the user Strava profile, which you should probably keep it private if you are deployed (see: [French aircraft carrier Charles de Gaulle tracked via Strava activity in OPSEC failure](https://securityaffairs.com/189696/intelligence/french-aircraft-carrier-charles-de-gaulle-tracked-via-strava-activity-in-opsec-failure.html) and [Fitness tracking app Strava gives away location of secret US army bases](https://www.theguardian.com/world/2018/jan/28/fitness-tracking-app-gives-away-location-of-secret-us-army-bases)) and several screenshots which, if you review them on Google maps (simply search for *Pont d'Iéna*), you will easily find the flag for this.
+We have multiple ways of approaching this, including the review of the .gpx (a standardised xml based format for storing GPS data), the user Strava profile, which you should probably keep it private if you are deployed (see: [French aircraft carrier Charles de Gaulle tracked via Strava activity in OPSEC failure](https://securityaffairs.com/189696/intelligence/french-aircraft-carrier-charles-de-gaulle-tracked-via-strava-activity-in-opsec-failure.html) and [Fitness tracking app Strava gives away location of secret US army bases](https://www.theguardian.com/world/2018/jan/28/fitness-tracking-app-gives-away-location-of-secret-us-army-bases)) and several screenshots which, if you review them on Google maps (simply search for *Pont d'Iéna*), will let you find the landmark easily.
 
 ## Flag
 (Probably) the most popular French landmark
