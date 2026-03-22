@@ -1,6 +1,6 @@
 ---
 layout: ../../layouts/MarkdownPostLayout.astro
-title: "OSINT CTF: A message in plain sight"
+title: "OSINT CTF: Unknown Host"
 pubDate: 2026-03-015
 description: 'During an investigation, analysts recovered a connection log from a remote server.The log contains a source IP address and a message written in a foreign language.Your mission is to analyze the IP address, determine the origin of the message, translate the text, and identify the real-world location being referenced.'
 author: 'raz'

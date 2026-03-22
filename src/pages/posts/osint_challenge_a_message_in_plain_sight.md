@@ -11,7 +11,7 @@ author: 'raz'
 tags: ["OSINT", "CTF", "Forensics"]
 ---
 
-**Challenge link**: https://osintchallenges.com/?weekly_challenge=satoshi-tribute-address-daily-received-total
+**Challenge link**: https://osintchallenges.com/challenges/a-message-in-plain-sight/
 
 ## Objectives
 Your mission is to analyze the image file and determine the real-world location referenced in the hidden message.
